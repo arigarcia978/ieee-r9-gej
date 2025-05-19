@@ -1,0 +1,210 @@
+{
+  "navigation": {
+    "about": "About",
+    "experience": "Experience",
+    "proposals": "Proposals",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Gustavo E. Juárez",
+    "subtitle": "Direct Elect Candidate for IEEE Región 9 2026-2027",
+    "joinButton": "Join Our Campaign",
+    "learnButton": "Learn More"
+  },
+  "about": {
+    "title": "Who is Gustavo?",
+    "description": "Member since 2008 and Senior Member since 2013",
+    "family": {
+      "title": "Career",
+      "description": "Professor and Researcher in Computer Science and Artificial Intelligence. \n Director of the Artificial Intelligence Laboratory - FACET UNT"
+    },
+    "residence": {
+      "title": "Residence",
+      "description": "San Miguel de Tucumán, Argentina"
+    },
+    "career": {
+      "title": "IEEE Trayectory",
+      "description": "Member since 2008 and Senior Member since 2013"
+    }
+  },
+  "experience": {
+    "title": "Experience & Background",
+    "description": "John brings a wealth of experience in both academic and community service roles",
+    "tabs": {
+      "academic": "Academic Experience",
+      "volunteer": "Volunteering Experience"
+    },
+    "academic": {
+      "degree1": {
+        "title": "Director - PDTS - CIN-COCINET",
+        "institution": "2016 - 2019",
+        "description": "Intelligent Navigation of Autonomous Aerial Systems Project (PRONISAA)"
+      },
+      "degree2": {
+        "title": "Director - PIDDEF - Ministery of Defense of Argentina",
+        "institution": "2017 - 2019",
+        "description": "Monitoring Operations in Peacekeeping Missions with Drones (MOMPAD)"
+      },
+      "certification": {
+        "title": "Director - PID - Agencia",
+        "institution": "2018 - 2026",
+        "description": "Digital Information Processing in Instrumentation, Control and Digital Communications"
+      }
+    },
+    "volunteer": {
+      "role1": {
+        "title": "Universidad Nacional de Tucumán Student Branch",
+        "position": "Counselor (2013 - 2019)",
+        "description": "Winning three global SAC awards"
+      },
+      "role2": {
+        "title": "IEEE Argentina Section",
+        "position1": "CIS Chapter Chair (2016)",
+        "position2": "Chair (2017 - 2018)",
+        "position3": "EdSoc Chapter Chair (2020 - 2021)",
+        "description": "Great achievements during this time?"
+      },
+      "role3": {
+        "title": "IEEE Region 9",
+        "position1": "Vitality Ad-hoc Committee, Chair (2018 - 2019), Member (2020 - 2023)",
+        "position2": "Ethics Ad-hoc Committee, Member (2024 - 2025)",
+        "position3": "Latin America Transactions, Treasurer (2022 - 2025)",
+        "position4": "Assistant Treasurer (2024 - 2025)",
+        "description": "Dedicó más de 1,000 horas a la mentoría de jóvenes en riesgo"
+      }
+    }
+  },
+  "proposals": {
+    "title": "My Proposals",
+    "description": "A comprehensive plan for a better future for our community",
+    "viewAll": "View Full Platform",
+    "categories": {
+      "economic": {
+        "title": "Strengthening committees in Region 9",
+        "description": "Specializing their actions, as well as their composition",
+        "items": [
+          "It is necessary to integrate them with members who stand out for their commitment to collaboration, empathy, responsibility and open communication of plans and their evolution."
+        ]
+      },
+      "infrastructure": {
+        "title": "Promote Recognition",
+        "description": "Recognize excellence, technical-professional achievements, innovation and social impact.",
+        "items": [
+          "Programa integral de reparación de carreteras",
+          "Expansión de parques públicos y espacios verdes",
+          "Modernización de instalaciones públicas"
+        ]
+      },
+      "safety": {
+        "title": "Strengthen links with Sections in R9",
+        "description": "Creando vecindarios más seguros para todos",
+        "items": [
+          "Among them, transversally through the councils",
+          "Promote emerging technological initiatives with social impact",
+          "Promoting replicability in other UOs"
+        ]
+      },
+      "education": {
+        "title": "Serve members",
+        "description": "Seeking to provide quality, added value and satisfaction/retention",
+        "items": [
+          "Increase retention",
+          "Design strategies to recruit members",
+          "Deliver added value"
+        ]
+      },
+      "environment": {
+        "title": "STEM Activities",
+        "description": "Encourage STEM and sustainable technology activities",
+        "items": [
+          "Supporting lifelong learning",
+          "Improving diversity",
+          "Promoting IEEE membership"
+        ]
+      },
+      "housing": {
+        "title": "Continuing education",
+        "description": "Promote course certification",
+        "items": [
+          "Through the IEEE Credential Program."
+        ]
+      }
+    }
+  },
+  "gallery": {
+    "title": "Campaign Gallery",
+    "description": "John Smith in action, serving our community",
+    "images": {
+      "alt1": "John Smith speaking at community event",
+      "alt2": "John Smith volunteering at food drive",
+      "alt3": "John Smith meeting with constituents",
+      "alt4": "John Smith at city council meeting",
+      "alt5": "John Smith with family at community park",
+      "alt6": "John Smith at ribbon cutting ceremony"
+    }
+  },
+  "events": {
+    "title": "Upcoming Events",
+    "description": "Join us at these upcoming campaign events",
+    "viewAll": "View All Events",
+    "event1": {
+      "title": "Town Hall Meeting",
+      "date": "May 15, 2025 • 7:00 PM",
+      "location": "Community Center, 123 Main Street",
+      "description": "Join us for an open discussion about the issues that matter most to our community. Bring your questions and concerns.",
+      "button": "RSVP"
+    },
+    "event2": {
+      "title": "Neighborhood Canvassing",
+      "date": "May 22, 2025 • 10:00 AM",
+      "location": "Campaign HQ, 456 Oak Avenue",
+      "description": "Help us spread our message door-to-door. Training and materials will be provided. Lunch included.",
+      "button": "Volunteer"
+    },
+    "event3": {
+      "title": "Fundraising Dinner",
+      "date": "June 5, 2025 • 6:30 PM",
+      "location": "Grand Hotel Ballroom, 789 River Road",
+      "description": "Join us for an evening of dinner and discussion to support our campaign. Special guest speakers.",
+      "button": "Purchase Tickets"
+    },
+    "event4": {
+      "title": "Community Clean-Up",
+      "date": "June 12, 2025 • 9:00 AM",
+      "location": "City Park, 321 Park Avenue",
+      "description": "Help us beautify our community with this volunteer clean-up event. Supplies and refreshments provided.",
+      "button": "Sign Up"
+    }
+  },
+  "contact": {
+    "title": "Get Involved",
+    "description": "There are many ways to support our campaign. Whether you want to volunteer, donate, or just stay informed, we'd love to hear from you.",
+    "email": "contact@johnsmith.com",
+    "phone": "(555) 123-4567",
+    "address": "123 Campaign HQ Street, City, State 12345",
+    "volunteerButton": "Volunteer",
+    "donateButton": "Donate",
+    "form": {
+      "title": "Join Our Campaign",
+      "subtitle": "Sign up to receive updates and get involved",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": {
+        "label": "How would you like to help?",
+        "placeholder": "I'm interested in volunteering..."
+      },
+      "submitButton": "Submit"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact"
+  },
+  "languageSwitcher": {
+    "label": "Language"
+  }
+}

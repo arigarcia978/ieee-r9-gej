@@ -1,0 +1,209 @@
+{
+  "navigation": {
+    "about": "Sobre",
+    "experience": "Experiência",
+    "proposals": "Propostas",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Liderança Que Funciona Para Todos",
+    "subtitle": "Construindo uma comunidade mais forte através de políticas inclusivas, governança transparente e soluções inovadoras.",
+    "joinButton": "Junte-se à Nossa Campanha",
+    "learnButton": "Saiba Mais"
+  },
+  "about": {
+    "title": "Sobre John Smith",
+    "description": "John Smith é um servidor público dedicado com mais de 15 anos de experiência em liderança comunitária. Nascido e criado em nossa cidade, John entende os desafios e oportunidades únicos que enfrentamos.",
+    "family": {
+      "title": "Família",
+      "description": "Casado há 20 anos com dois filhos em escolas públicas locais"
+    },
+    "residence": {
+      "title": "Residência",
+      "description": "Residente de longa data do bairro do Distrito Norte"
+    },
+    "career": {
+      "title": "Carreira",
+      "description": "Proprietário de pequena empresa e ex-comissário de planejamento urbano"
+    }
+  },
+  "experience": {
+    "title": "Experiência e Histórico",
+    "description": "John traz uma vasta experiência tanto em funções acadêmicas quanto de serviço comunitário",
+    "tabs": {
+      "academic": "Experiência Acadêmica",
+      "volunteer": "Trabalho Voluntário"
+    },
+    "academic": {
+      "degree1": {
+        "title": "Mestrado em Administração Pública",
+        "institution": "Universidade Estadual, 2008",
+        "description": "Especializado em Planejamento e Desenvolvimento Urbano com honras. Tese sobre modelos sustentáveis de crescimento urbano."
+      },
+      "degree2": {
+        "title": "Bacharelado em Ciências Políticas",
+        "institution": "Faculdade da Cidade, 2004",
+        "description": "Graduado com summa cum laude. Presidente do corpo estudantil e fundador da Iniciativa de Alcance Comunitário."
+      },
+      "certification": {
+        "title": "Planejador Urbano Certificado",
+        "institution": "Associação Americana de Planejamento, 2010",
+        "description": "Certificação profissional em planejamento urbano com foco em desenvolvimento comunitário e revitalização."
+      }
+    },
+    "volunteer": {
+      "role1": {
+        "title": "Habitat para a Humanidade",
+        "position": "Membro do Conselho, 2015-Presente",
+        "description": "Ajudou a coordenar a construção de mais de 50 casas acessíveis para famílias necessitadas em toda a região."
+      },
+      "role2": {
+        "title": "Banco de Alimentos da Cidade",
+        "position": "Coordenador de Voluntários, 2012-2018",
+        "description": "Organizou eventos semanais de distribuição de alimentos atendendo mais de 200 famílias por semana. Recrutou e treinou voluntários."
+      },
+      "role3": {
+        "title": "Programa de Mentoria Juvenil",
+        "position": "Mentor, 2010-Presente",
+        "description": "Dedicou mais de 1.000 horas orientando jovens em risco, ajudando-os a desenvolver habilidades para a vida e caminhos profissionais."
+      }
+    }
+  },
+  "proposals": {
+    "title": "Minhas Propostas",
+    "description": "Um plano abrangente para um futuro melhor para nossa comunidade",
+    "viewAll": "Ver Plataforma Completa",
+    "categories": {
+      "economic": {
+        "title": "Desenvolvimento Econômico",
+        "description": "Apoiando empresas locais e criando empregos",
+        "items": [
+          "Incentivos fiscais para pequenas empresas",
+          "Processo simplificado de licenciamento para novos negócios",
+          "Programas de treinamento profissional para residentes"
+        ]
+      },
+      "infrastructure": {
+        "title": "Infraestrutura",
+        "description": "Melhorando nossas estradas, parques e espaços públicos",
+        "items": [
+          "Programa abrangente de reparação de estradas",
+          "Expansão de parques públicos e espaços verdes",
+          "Modernização de instalações públicas"
+        ]
+      },
+      "safety": {
+        "title": "Segurança Pública",
+        "description": "Criando bairros mais seguros para todos",
+        "items": [
+          "Iniciativas de policiamento comunitário",
+          "Melhor iluminação em áreas de alto risco",
+          "Programas de engajamento juvenil"
+        ]
+      },
+      "education": {
+        "title": "Educação",
+        "description": "Apoiando nossas escolas e estudantes",
+        "items": [
+          "Aumento do financiamento para escolas públicas",
+          "Expansão de programas após a escola",
+          "Iniciativas de retenção de professores"
+        ]
+      },
+      "environment": {
+        "title": "Meio Ambiente",
+        "description": "Criando um futuro sustentável",
+        "items": [
+          "Iniciativas de energia limpa para edifícios municipais",
+          "Programas ampliados de reciclagem",
+          "Plantio de árvores e silvicultura urbana"
+        ]
+      },
+      "housing": {
+        "title": "Habitação",
+        "description": "Tornando a habitação acessível e disponível",
+        "items": [
+          "Incentivos para o desenvolvimento de habitações acessíveis",
+          "Assistência para compradores de primeira casa",
+          "Programas de assistência ao aluguel"
+        ]
+      }
+    }
+  },
+  "gallery": {
+    "title": "Galeria da Campanha",
+    "description": "John Smith em ação, servindo nossa comunidade",
+    "images": {
+      "alt1": "John Smith falando em evento comunitário",
+      "alt2": "John Smith voluntariando em campanha de alimentos",
+      "alt3": "John Smith reunindo-se com eleitores",
+      "alt4": "John Smith em reunião da câmara municipal",
+      "alt5": "John Smith com família no parque comunitário",
+      "alt6": "John Smith em cerimônia de inauguração"
+    }
+  },
+  "events": {
+    "title": "Próximos Eventos",
+    "description": "Junte-se a nós nestes próximos eventos de campanha",
+    "viewAll": "Ver Todos os Eventos",
+    "event1": {
+      "title": "Reunião Pública",
+      "date": "15 de maio de 2025 • 19:00",
+      "location": "Centro Comunitário, 123 Rua Principal",
+      "description": "Junte-se a nós para uma discussão aberta sobre os assuntos que mais importam para nossa comunidade. Traga suas perguntas e preocupações.",
+      "button": "Confirmar Presença"
+    },
+    "event2": {
+      "title": "Campanha no Bairro",
+      "date": "22 de maio de 2025 • 10:00",
+      "location": "Sede da Campanha, 456 Avenida Carvalho",
+      "description": "Ajude-nos a divulgar nossa mensagem de porta em porta. Treinamento e materiais serão fornecidos. Almoço incluído.",
+      "button": "Voluntariar-se"
+    },
+    "event3": {
+      "title": "Jantar de Arrecadação de Fundos",
+      "date": "5 de junho de 2025 • 18:30",
+      "location": "Salão de Festas do Grande Hotel, 789 Estrada do Rio",
+      "description": "Junte-se a nós para uma noite de jantar e discussão para apoiar nossa campanha. Palestrantes convidados especiais.",
+      "button": "Comprar Ingressos"
+    },
+    "event4": {
+      "title": "Limpeza Comunitária",
+      "date": "12 de junho de 2025 • 9:00",
+      "location": "Parque da Cidade, 321 Avenida do Parque",
+      "description": "Ajude-nos a embelezar nossa comunidade com este evento voluntário de limpeza. Suprimentos e refrescos fornecidos.",
+      "button": "Inscrever-se"
+    }
+  },
+  "contact": {
+    "title": "Envolva-se",
+    "description": "Existem muitas maneiras de apoiar nossa campanha. Seja você quer ser voluntário, doar ou apenas manter-se informado, adoraríamos ouvir de você.",
+    "email": "contato@johnsmith.com",
+    "phone": "(555) 123-4567",
+    "address": "123 Rua Sede da Campanha, Cidade, Estado 12345",
+    "volunteerButton": "Voluntariar-se",
+    "donateButton": "Doar",
+    "form": {
+      "title": "Junte-se à Nossa Campanha",
+      "subtitle": "Inscreva-se para receber atualizações e envolver-se",
+      "firstName": "Nome",
+      "lastName": "Sobrenome",
+      "email": "Email",
+      "phone": "Telefone",
+      "message": {
+        "label": "Como você gostaria de ajudar?",
+        "placeholder": "Estou interessado em ser voluntário..."
+      },
+      "submitButton": "Enviar"
+    }
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados.",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "contact": "Contato"
+  },
+  "languageSwitcher": {
+    "label": "Idioma"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "navigation": {
+    "about": "Acerca de",
+    "experience": "Experiencia",
+    "proposals": "Propuestas",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Gustavo E. Juárez",
+    "subtitle": "Candidado a Director Electo de IEEE Región 9 2026-2027",
+    "joinButton": "Únete a Nuestra Campaña",
+    "learnButton": "Más Información"
+  },
+  "about": {
+    "title": "¿Quién es Gustavo?",
+    "description": "Miembro IEEE desde 2008 y Senior Member desde 2013",
+    "family": {
+      "title": "Carrera",
+      "description": "Profesor e Investigador en Ciencias de la Computación e Inteligencia Artificial. \n Director del Laboratorio de Inteligencia Artificial - FACET UNT"
+    },
+    "residence": {
+      "title": "Residencia",
+      "description": "San Miguel de Tucumán, Argentina"
+    },
+    "career": {
+      "title": "Trayectoria IEEE",
+      "description": "Miembro IEEE desde 2008 y Senior Member desde 2013"
+    }
+  },
+  "experience": {
+    "title": "Experiencia y Antecedentes",
+    "description": "John aporta una gran experiencia tanto en roles académicos como de servicio comunitario",
+    "tabs": {
+      "academic": "Experiencia Académica",
+      "volunteer": "Experiencia como Voluntario"
+    },
+    "academic": {
+      "degree1": {
+        "title": "Director - PDTS - CIN-COCINET",
+        "institution": "2016 - 2019",
+        "description": "Proyecto de Navegación Inteligente de Sistemas Aéreos Autónomos (PRONISAA)"
+      },
+      "degree2": {
+        "title": "Director - PIDDEF - Ministerio de Defensa de Argentina",
+        "institution": "2017 - 2019",
+        "description": "Monitoreo de Operación en Misiones de Paz con Drones (MOMPAD)"
+      },
+      "certification": {
+        "title": "Director - PID - Agencia",
+        "institution": "2018 - 2026",
+        "description": "Procesamiento Digital de información en Instrumentación, Control y Comunicaciones Digital"
+      }
+    },
+    "volunteer": {
+      "role1": {
+        "title": "Rama Estudiantil Universidad Nacional de Tucumán",
+        "position": "Consejero (2013 - 2019)",
+        "description": "Ganando tres premios mundiales"
+      },
+      "role2": {
+        "title": "IEEE Sección Argentina",
+        "position1": "Presidente Capítulo CIS (2016)",
+        "position2": "Presidente (2017 - 2018)",
+        "position3": "Presidente Capítulo EdSoc (2020 - 2021)",
+        "description": "Grandes logros durante esta época"
+      },
+      "role3": {
+        "title": "IEEE Región 9",
+        "position1": "Vitality Ad-hoc Committee, Presidente (2018 - 2019), Miembro (2020 - 2023)",
+        "position2": "Ethics Ad-hoc Committee, Miembro (2024 - 2025)",
+        "position3": "Latin America Transactions, Tesorero (2022 - 2025)",
+        "position4": "Assistant Treasurer (2024 - 2025)",
+        "description": "Dedicó más de 1,000 horas a la mentoría de jóvenes en riesgo"
+      }
+    }
+  },
+  "proposals": {
+    "title": "Mis Propuestas",
+    "description": "Un plan integral para un futuro mejor para nuestra comunidad",
+    "viewAll": "Ver Plataforma Completa",
+    "categories": {
+      "economic": {
+        "title": "Fortalecer comités de Región",
+        "description": "Especializar su accionar y su composición.",
+        "items": [
+          "It is necessary to integrate them with members who stand out for their commitment to collaboration, empathy, responsibility and open communication of plans and their evolution."
+        ]
+      },
+      "infrastructure": {
+        "title": "Promover reconocimientos",
+        "description": "Reconocer excelencia, logros profesionales técnicos, innovación e impacto social.",
+        "items": [
+          "Programa integral de reparación de carreteras",
+          "Expansión de parques públicos y espacios verdes",
+          "Modernización de instalaciones públicas"
+        ]
+      },
+      "safety": {
+        "title": "Fortalecer relación con las secciones de R9",
+        "description": "Creando vecindarios más seguros para todos",
+        "items": [
+          "Entre secciones, a través de consejos",
+          "Promover iniciativas con impacto social",
+          "Promover replicabilidad entre equipos"
+        ]
+      },
+      "education": {
+        "title": "Servir a los miembros",
+        "description": "Proveer calidad y satisfacción",
+        "items": [
+          "Incrementar retención",
+          "Diseñar estrategias para atraer nuevos miembros",
+          "Entregar valor agregado"
+        ]
+      },
+      "environment": {
+        "title": "Actividades STEM",
+        "description": "Alentar actividades STEM y tecnología sostenible",
+        "items": [
+          "Apoyo al aprendizaje para toda la vida",
+          "Promover diversidad",
+          "Promover membresía IEEE"
+        ]
+      },
+      "housing": {
+        "title": "Educación Continua",
+        "description": "Promover certificación de cursos",
+        "items": [
+          "Utilizando el programa IEEE"
+        ]
+      }
+    }
+  },
+  "gallery": {
+    "title": "Galería de Campaña",
+    "description": "John Smith en acción, sirviendo a nuestra comunidad",
+    "images": {
+      "alt1": "John Smith hablando en un evento comunitario",
+      "alt2": "John Smith como voluntario en una colecta de alimentos",
+      "alt3": "John Smith reuniéndose con sus electores",
+      "alt4": "John Smith en una reunión del consejo municipal",
+      "alt5": "John Smith con su familia en un parque comunitario",
+      "alt6": "John Smith en una ceremonia de inauguración"
+    }
+  },
+  "events": {
+    "title": "Próximos Eventos",
+    "description": "Únete a nosotros en estos próximos eventos de campaña",
+    "viewAll": "Ver Todos los Eventos",
+    "event1": {
+      "title": "Reunión Pública",
+      "date": "15 de mayo de 2025 • 7:00 PM",
+      "location": "Centro Comunitario, 123 Calle Principal",
+      "description": "Únete a nosotros para una discusión abierta sobre los temas que más importan a nuestra comunidad. Trae tus preguntas e inquietudes.",
+      "button": "Confirmar Asistencia"
+    },
+    "event2": {
+      "title": "Campaña en el Vecindario",
+      "date": "22 de mayo de 2025 • 10:00 AM",
+      "location": "Sede de Campaña, 456 Avenida Roble",
+      "description": "Ayúdanos a difundir nuestro mensaje puerta a puerta. Se proporcionará capacitación y materiales. Almuerzo incluido.",
+      "button": "Voluntario"
+    },
+    "event3": {
+      "title": "Cena de Recaudación de Fondos",
+      "date": "5 de junio de 2025 • 6:30 PM",
+      "location": "Salón de Baile del Gran Hotel, 789 Camino del Río",
+      "description": "Únete a nosotros para una noche de cena y discusión para apoyar nuestra campaña. Oradores invitados especiales.",
+      "button": "Comprar Boletos"
+    },
+    "event4": {
+      "title": "Limpieza Comunitaria",
+      "date": "12 de junio de 2025 • 9:00 AM",
+      "location": "Parque de la Ciudad, 321 Avenida del Parque",
+      "description": "Ayúdanos a embellecer nuestra comunidad con este evento voluntario de limpieza. Suministros y refrescos proporcionados.",
+      "button": "Inscribirse"
+    }
+  },
+  "contact": {
+    "title": "Participa",
+    "description": "Hay muchas formas de apoyar nuestra campaña. Ya sea que quieras ser voluntario, donar o simplemente mantenerte informado, nos encantaría saber de ti.",
+    "email": "contacto@johnsmith.com",
+    "phone": "(555) 123-4567",
+    "address": "123 Calle Sede de Campaña, Ciudad, Estado 12345",
+    "volunteerButton": "Voluntario",
+    "donateButton": "Donar",
+    "form": {
+      "title": "Únete a Nuestra Campaña",
+      "subtitle": "Regístrate para recibir actualizaciones y participar",
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "email": "Correo electrónico",
+      "phone": "Teléfono",
+      "message": {
+        "label": "¿Cómo te gustaría ayudar?",
+        "placeholder": "Estoy interesado en ser voluntario..."
+      },
+      "submitButton": "Enviar"
+    }
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "contact": "Contacto"
+  },
+  "languageSwitcher": {
+    "label": "Idioma"
+  }
+}
