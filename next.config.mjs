@@ -9,6 +9,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  // If your repository name is not at the root level, add:
+  basePath: '',
 }
 
 export default nextConfig

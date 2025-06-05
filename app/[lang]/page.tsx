@@ -13,7 +13,10 @@ import galery2 from "../../public/galeria2.png"
 import galery3 from "../../public/galeria3.png" 
 import galery4 from "../../public/galeria4.png" 
 import galery5 from "../../public/galeria5.png"
-import galery6 from "../../public/galeria6.png" 
+import galery6 from "../../public/galeria6.png"
+import { Linkedin } from "lucide-react"
+import { Facebook } from "lucide-react"
+import { Instagram } from "lucide-react"
 
 export default async function CampaignPage({
   params,
@@ -58,14 +61,15 @@ export default async function CampaignPage({
                   <p className="max-w-[600px] text-muted-foreground md:text-xl">{dict.hero.subtitle}</p>
                 </div>
                 <div className="flex flex-col gap-2 min-[400px]:flex-row">
-                  <Button variant="lapisLazuli">{dict.hero.joinButton}</Button>
-                  <Button variant="outline">{dict.hero.learnButton}</Button>
+                  <Button variant="lapisLazuli" href="https://www.linkedin.com/in/gustavo-eduardo-juarez-99333a48/"><Linkedin color="white" size={20} /></Button>
+                  <Button variant="lapisLazuli" href="https://www.facebook.com/gustavo.e.juarez"><Facebook color="white" size={20} /></Button>
+                  <Button variant="lapisLazuli" href="https://www.instagram.com/gustavius2016/"><Instagram color="white" size={20} /></Button>
                 </div>
               </div>
               <div className="mx-auto aspect-square overflow-hidden rounded-xl object-cover lg:order-last">
                 <Image
                   src={candidateImage}
-                  alt="Gustavo Juarez, candidato a Director Regional 2028-2029"
+                  alt="Gustavo Juarez"
                   width={600}
                   height={600}
                   className="mx-auto aspect-square rounded-xl object-cover"
