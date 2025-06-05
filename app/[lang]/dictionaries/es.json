@@ -83,17 +83,13 @@
         "title": "Fortalecer comités de Región",
         "description": "Especializar su accionar y su composición.",
         "items": [
-          "It is necessary to integrate them with members who stand out for their commitment to collaboration, empathy, responsibility and open communication of plans and their evolution."
+          "Es necesario integrarlos con miembros que destaquen por su compromiso de colaboración, empatía, responsabilidad y comunicación abierta de los planes y su evolución."
         ]
       },
       "infrastructure": {
         "title": "Promover reconocimientos",
         "description": "Reconocer excelencia, logros profesionales técnicos, innovación e impacto social.",
-        "items": [
-          "Programa integral de reparación de carreteras",
-          "Expansión de parques públicos y espacios verdes",
-          "Modernización de instalaciones públicas"
-        ]
+        "items": []
       },
       "safety": {
         "title": "Fortalecer relación con las secciones de R9",
@@ -133,7 +129,7 @@
   },
   "gallery": {
     "title": "Galería de Campaña",
-    "description": "John Smith en acción, sirviendo a nuestra comunidad",
+    "description": "Gustavo en acción, presente en actividades IEEE de diferentes partes de Latinoamérica",
     "images": {
       "alt1": "John Smith hablando en un evento comunitario",
       "alt2": "John Smith como voluntario en una colecta de alimentos",
@@ -201,8 +197,8 @@
   "footer": {
     "rights": "Todos los derechos reservados.",
     "privacy": "Política de Privacidad",
-    "terms": "Términos de Servicio",
-    "contact": "Contacto"
+    "terms": "Recursos de Elecciones IEEE",
+    "contact": "Candidatos de Elecciones Anuales de IEEE"
   },
   "languageSwitcher": {
     "label": "Idioma"

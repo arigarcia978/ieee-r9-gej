@@ -40,9 +40,6 @@ export default async function CampaignPage({
             <Link href={`#proposals`} className="text-sm font-medium transition-colors hover:text-primary">
               {dict.navigation.proposals}
             </Link>
-            <Link href={`#contact`} className="text-sm font-medium transition-colors hover:text-primary">
-              {dict.navigation.contact}
-            </Link>
           </nav>
           <div className="flex items-center gap-4">
             <LanguageSwitcher label={dict.languageSwitcher.label} currentLang={params.lang} />
@@ -341,12 +338,6 @@ export default async function CampaignPage({
                 </CardContent>
               </Card>
             </div>
-
-            <div className="mx-auto flex max-w-[58rem] flex-col items-center justify-center gap-4 text-center mt-12">
-              <Button variant="lapisLazuli">
-                {dict.proposals.viewAll} <ArrowRight className="ml-2 h-4 w-4" />
-              </Button>
-            </div>
           </div>
         </section>
 
@@ -497,118 +488,6 @@ export default async function CampaignPage({
               </Card>
             </div>
 
-            <div className="mx-auto flex max-w-[58rem] flex-col items-center justify-center gap-4 text-center mt-12">
-              <Button variant="lapisLazuli">
-                {dict.events.viewAll} <ArrowRight className="ml-2 h-4 w-4" />
-              </Button>
-            </div>
-          </div>
-        </section>
-
-        <section id="contact" className="w-full py-12 md:py-24 lg:py-32 bg-[#f5f1e3]">
-          <div className="container px-4 md:px-6">
-            <div className="mx-auto grid max-w-5xl items-center gap-6 py-12 lg:grid-cols-2 lg:gap-12">
-              <div>
-                <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">{dict.contact.title}</h2>
-                <p className="mt-4 text-muted-foreground md:text-xl">{dict.contact.description}</p>
-                <div className="mt-8 space-y-4">
-                  <div className="flex items-center">
-                    <Mail className="mr-3 h-5 w-5 text-lapis-lazuli" />
-                    <span>{dict.contact.email}</span>
-                  </div>
-                  <div className="flex items-center">
-                    <Phone className="mr-3 h-5 w-5 text-lapis-lazuli" />
-                    <span>{dict.contact.phone}</span>
-                  </div>
-                  <div className="flex items-center">
-                    <MapPin className="mr-3 h-5 w-5 text-lapis-lazuli" />
-                    <span>{dict.contact.address}</span>
-                  </div>
-                </div>
-                <div className="mt-8 flex gap-4">
-                  <Button variant="lapisLazuli">{dict.contact.volunteerButton}</Button>
-                  <Button variant="outline">{dict.contact.donateButton}</Button>
-                </div>
-              </div>
-              <div className="rounded-xl border bg-background p-6 shadow-sm">
-                <h3 className="text-xl font-bold">{dict.contact.form.title}</h3>
-                <p className="mt-2 text-sm text-muted-foreground">{dict.contact.form.subtitle}</p>
-                <form className="mt-6 space-y-4">
-                  <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
-                    <div className="space-y-2">
-                      <label
-                        htmlFor="first-name"
-                        className="text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70"
-                      >
-                        {dict.contact.form.firstName}
-                      </label>
-                      <input
-                        id="first-name"
-                        className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
-                        placeholder="John"
-                      />
-                    </div>
-                    <div className="space-y-2">
-                      <label
-                        htmlFor="last-name"
-                        className="text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70"
-                      >
-                        {dict.contact.form.lastName}
-                      </label>
-                      <input
-                        id="last-name"
-                        className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
-                        placeholder="Doe"
-                      />
-                    </div>
-                  </div>
-                  <div className="space-y-2">
-                    <label
-                      htmlFor="email"
-                      className="text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70"
-                    >
-                      {dict.contact.form.email}
-                    </label>
-                    <input
-                      id="email"
-                      type="email"
-                      className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
-                      placeholder="you@example.com"
-                    />
-                  </div>
-                  <div className="space-y-2">
-                    <label
-                      htmlFor="phone"
-                      className="text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70"
-                    >
-                      {dict.contact.form.phone}
-                    </label>
-                    <input
-                      id="phone"
-                      type="tel"
-                      className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
-                      placeholder="(555) 123-4567"
-                    />
-                  </div>
-                  <div className="space-y-2">
-                    <label
-                      htmlFor="message"
-                      className="text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70"
-                    >
-                      {dict.contact.form.message.label}
-                    </label>
-                    <textarea
-                      id="message"
-                      className="flex min-h-[80px] w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
-                      placeholder={dict.contact.form.message.placeholder}
-                    />
-                  </div>
-                  <Button type="submit" variant="lapisLazuli" className="w-full">
-                    {dict.contact.form.submitButton}
-                  </Button>
-                </form>
-              </div>
-            </div>
           </div>
         </section>
       </main>
@@ -616,17 +495,14 @@ export default async function CampaignPage({
         <div className="container flex flex-col items-center justify-between gap-4 py-10 md:h-24 md:flex-row md:py-0">
           <div className="flex flex-col items-center gap-4 px-8 md:flex-row md:gap-2 md:px-0">
             <p className="text-center text-sm leading-loose text-muted-foreground md:text-left">
-              &copy; {new Date().getFullYear()} John Smith for City Council. {dict.footer.rights}
+              &copy; {new Date().getFullYear()} Gustavo E. Juárez. {dict.footer.rights}
             </p>
           </div>
           <div className="flex gap-4">
-            <Link href="#" className="text-sm text-muted-foreground hover:underline">
-              {dict.footer.privacy}
-            </Link>
-            <Link href="#" className="text-sm text-muted-foreground hover:underline">
+            <Link href="https://www.ieee.org/about/corporate/election" className="text-sm text-muted-foreground hover:underline">
               {dict.footer.terms}
             </Link>
-            <Link href="#" className="text-sm text-muted-foreground hover:underline">
+            <Link href="https://www.ieee.org/about/corporate/election/candidates#ieee-region-delegate-elect/director-elect,-2026--2027" className="text-sm text-muted-foreground hover:underline">
               {dict.footer.contact}
             </Link>
           </div>

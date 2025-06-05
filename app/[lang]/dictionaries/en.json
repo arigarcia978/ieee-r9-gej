@@ -89,11 +89,7 @@
       "infrastructure": {
         "title": "Promote Recognition",
         "description": "Recognize excellence, technical-professional achievements, innovation and social impact.",
-        "items": [
-          "Programa integral de reparación de carreteras",
-          "Expansión de parques públicos y espacios verdes",
-          "Modernización de instalaciones públicas"
-        ]
+        "items": []
       },
       "safety": {
         "title": "Strengthen links with Sections in R9",
@@ -133,7 +129,7 @@
   },
   "gallery": {
     "title": "Campaign Gallery",
-    "description": "John Smith in action, serving our community",
+    "description": "Gustavo in action, present at IEEE activities in different parts of Latin America",
     "images": {
       "alt1": "John Smith speaking at community event",
       "alt2": "John Smith volunteering at food drive",
@@ -201,8 +197,8 @@
   "footer": {
     "rights": "All rights reserved.",
     "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "contact": "Contact"
+    "terms": "IEEE Election Resources",
+    "contact": "IEEE Annual Election Candidates"
   },
   "languageSwitcher": {
     "label": "Language"
