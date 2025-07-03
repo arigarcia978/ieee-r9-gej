@@ -53,11 +53,23 @@ const config = {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
-        // Custom colors
-        "lapis-lazuli": "#00629b",
-        "black-custom": "#050505",
-        bone: "#dddbcb",
-        "old-lace": "#f5f1e3",
+        // Sober, professional color palette
+        "slate-50": "#f8fafc",
+        "slate-100": "#f1f5f9",
+        "slate-200": "#e2e8f0",
+        "slate-300": "#cbd5e1",
+        "slate-400": "#94a3b8",
+        "slate-500": "#64748b",
+        "slate-600": "#475569",
+        "slate-700": "#334155",
+        "slate-800": "#1e293b",
+        "slate-900": "#0f172a",
+        "blue-50": "#eff6ff",
+        "blue-100": "#dbeafe",
+        "blue-600": "#2563eb",
+        "blue-700": "#1d4ed8",
+        "blue-800": "#1e40af",
+        "blue-900": "#1e3a8a",
       },
       borderRadius: {
         lg: "var(--radius)",
@@ -65,21 +77,17 @@ const config = {
         sm: "calc(var(--radius) - 4px)",
       },
       keyframes: {
-        "accordion-down": {
-          from: { height: "0" },
-          to: { height: "var(--radix-accordion-content-height)" },
-        },
-        "accordion-up": {
-          from: { height: "var(--radix-accordion-content-height)" },
-          to: { height: "0" },
+        "fade-in": {
+          "0%": { opacity: "0", transform: "translateY(10px)" },
+          "100%": { opacity: "1", transform: "translateY(0)" },
         },
       },
       animation: {
-        "accordion-down": "accordion-down 0.2s ease-out",
-        "accordion-up": "accordion-up 0.2s ease-out",
+        "fade-in": "fade-in 0.5s ease-out",
       },
-      backgroundImage: {
-        'gustavo-main': "url('/images/gustavo-main.png')",
+      boxShadow: {
+        subtle: "0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06)",
+        card: "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
       },
     },
   },

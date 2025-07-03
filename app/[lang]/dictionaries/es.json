@@ -7,9 +7,10 @@
   },
   "hero": {
     "title": "Gustavo E. Juárez",
-    "subtitle": "Candidado a Director Electo de IEEE Región 9 2026-2027",
+    "subtitle": "Candidato a Director Electo de IEEE Región 9 2026-2027",
     "joinButton": "Únete a Nuestra Campaña",
-    "learnButton": "Más Información"
+    "learnButton": "Más Información",
+    "connect": "Conecta con Gustavo"
   },
   "about": {
     "title": "¿Quién es Gustavo?",
@@ -20,7 +21,7 @@
     },
     "residence": {
       "title": "Residencia",
-      "description": "San Miguel de Tucumán, Argentina"
+      "description": "Cruz Alta, Tucumán, Argentina"
     },
     "career": {
       "title": "Trayectoria IEEE",
@@ -31,8 +32,8 @@
     "title": "Experiencia y Antecedentes",
     "description": "John aporta una gran experiencia tanto en roles académicos como de servicio comunitario",
     "tabs": {
-      "academic": "Experiencia Académica",
-      "volunteer": "Experiencia como Voluntario"
+      "academic": "Academia",
+      "volunteer": "Voluntariado"
     },
     "academic": {
       "degree1": {
@@ -54,22 +55,17 @@
     "volunteer": {
       "role1": {
         "title": "Rama Estudiantil Universidad Nacional de Tucumán",
-        "position": "Consejero (2013 - 2019)",
+        "position": ["Consejero (2013 - 2019)"],
         "description": "Ganando tres premios mundiales"
       },
       "role2": {
         "title": "IEEE Sección Argentina",
-        "position1": "Presidente Capítulo CIS (2016)",
-        "position2": "Presidente (2017 - 2018)",
-        "position3": "Presidente Capítulo EdSoc (2020 - 2021)",
+        "position": ["Presidente Capítulo CIS (2016)", "Presidente (2017 - 2018)", "Presidente Capítulo EdSoc (2020 - 2021)"],
         "description": "Grandes logros durante esta época"
       },
       "role3": {
         "title": "IEEE Región 9",
-        "position1": "Vitality Ad-hoc Committee, Presidente (2018 - 2019), Miembro (2020 - 2023)",
-        "position2": "Ethics Ad-hoc Committee, Miembro (2024 - 2025)",
-        "position3": "Latin America Transactions, Tesorero (2022 - 2025)",
-        "position4": "Assistant Treasurer (2024 - 2025)",
+        "position": ["Vitality Ad-hoc Committee, Presidente (2018 - 2019), Miembro (2020 - 2023)", "Ethics Ad-hoc Committee, Miembro (2024 - 2025)", "Latin America Transactions, Tesorero (2022 - 2025)", "Assistant Treasurer (2024 - 2025)"],
         "description": "Dedicó más de 1,000 horas a la mentoría de jóvenes en riesgo"
       }
     }
@@ -93,7 +89,7 @@
       },
       "safety": {
         "title": "Fortalecer relación con las secciones de R9",
-        "description": "Creando vecindarios más seguros para todos",
+        "description": "Creando una comunidad a lo largo de Región 9",
         "items": [
           "Entre secciones, a través de consejos",
           "Promover iniciativas con impacto social",
@@ -103,27 +99,17 @@
       "education": {
         "title": "Servir a los miembros",
         "description": "Proveer calidad y satisfacción",
-        "items": [
-          "Incrementar retención",
-          "Diseñar estrategias para atraer nuevos miembros",
-          "Entregar valor agregado"
-        ]
+        "items": ["Incrementar retención", "Diseñar estrategias para atraer nuevos miembros", "Entregar valor agregado"]
       },
       "environment": {
         "title": "Actividades STEM",
         "description": "Alentar actividades STEM y tecnología sostenible",
-        "items": [
-          "Apoyo al aprendizaje para toda la vida",
-          "Promover diversidad",
-          "Promover membresía IEEE"
-        ]
+        "items": ["Apoyo al aprendizaje para toda la vida", "Promover diversidad", "Promover membresía IEEE"]
       },
       "housing": {
         "title": "Educación Continua",
         "description": "Promover certificación de cursos",
-        "items": [
-          "Utilizando el programa IEEE"
-        ]
+        "items": ["Utilizando el programa IEEE"]
       }
     }
   },
@@ -141,57 +127,31 @@
   },
   "events": {
     "title": "Próximos Eventos",
-    "description": "Únete a nosotros en estos próximos eventos de campaña",
+    "description": "Únete a nosotros en estos próximos eventos IEEE",
     "viewAll": "Ver Todos los Eventos",
     "event1": {
-      "title": "Reunión Pública",
-      "date": "15 de mayo de 2025 • 7:00 PM",
-      "location": "Centro Comunitario, 123 Calle Principal",
-      "description": "Únete a nosotros para una discusión abierta sobre los temas que más importan a nuestra comunidad. Trae tus preguntas e inquietudes.",
-      "button": "Confirmar Asistencia"
+      "title": "Rising Stars",
+      "date": "15 al 17 de agosto, 2025",
+      "location": "Programa Rising Stars IEEE Región 9",
+      "description": "Únete al programa Rising Stars de IEEE Región 9, diseñado para desarrollar la próxima generación de líderes IEEE a través de mentoría y desarrollo profesional.",
+      "button": "Más Información",
+      "url": "https://r9.ieee.org/risingstars-2025/"
     },
     "event2": {
-      "title": "Campaña en el Vecindario",
-      "date": "22 de mayo de 2025 • 10:00 AM",
-      "location": "Sede de Campaña, 456 Avenida Roble",
-      "description": "Ayúdanos a difundir nuestro mensaje puerta a puerta. Se proporcionará capacitación y materiales. Almuerzo incluido.",
-      "button": "Voluntario"
+      "title": "SBRM",
+      "date": "5 al 7 de octubre, 2025",
+      "location": "Reunión Regional de Ramas Estudiantiles IEEE Región 9",
+      "description": "La Reunión Regional de Ramas Estudiantiles reúne a líderes estudiantiles de toda Latinoamérica para compartir experiencias y construir redes.",
+      "button": "Más Info",
+      "url": "https://www.instagram.com/ieeer9sbrm/p/DJMmmc6u2G7/?hl=es&img_index=1"
     },
     "event3": {
-      "title": "Cena de Recaudación de Fondos",
-      "date": "5 de junio de 2025 • 6:30 PM",
-      "location": "Salón de Baile del Gran Hotel, 789 Camino del Río",
-      "description": "Únete a nosotros para una noche de cena y discusión para apoyar nuestra campaña. Oradores invitados especiales.",
-      "button": "Comprar Boletos"
-    },
-    "event4": {
-      "title": "Limpieza Comunitaria",
-      "date": "12 de junio de 2025 • 9:00 AM",
-      "location": "Parque de la Ciudad, 321 Avenida del Parque",
-      "description": "Ayúdanos a embellecer nuestra comunidad con este evento voluntario de limpieza. Suministros y refrescos proporcionados.",
-      "button": "Inscribirse"
-    }
-  },
-  "contact": {
-    "title": "Participa",
-    "description": "Hay muchas formas de apoyar nuestra campaña. Ya sea que quieras ser voluntario, donar o simplemente mantenerte informado, nos encantaría saber de ti.",
-    "email": "contacto@johnsmith.com",
-    "phone": "(555) 123-4567",
-    "address": "123 Calle Sede de Campaña, Ciudad, Estado 12345",
-    "volunteerButton": "Voluntario",
-    "donateButton": "Donar",
-    "form": {
-      "title": "Únete a Nuestra Campaña",
-      "subtitle": "Regístrate para recibir actualizaciones y participar",
-      "firstName": "Nombre",
-      "lastName": "Apellido",
-      "email": "Correo electrónico",
-      "phone": "Teléfono",
-      "message": {
-        "label": "¿Cómo te gustaría ayudar?",
-        "placeholder": "Estoy interesado en ser voluntario..."
-      },
-      "submitButton": "Enviar"
+      "title": "Programa SPARK",
+      "date": "5 al 7 de octubre, 2025 (durante SBRM)",
+      "location": "2da Capacitación de Consejeros, Asesores, SSAC y SSRs",
+      "description": "Programa de capacitación especializada para consejeros, asesores y representantes estudiantiles para mejorar sus capacidades de liderazgo y mentoría.",
+      "button": "Registrarse",
+      "url": "#"
     }
   },
   "footer": {

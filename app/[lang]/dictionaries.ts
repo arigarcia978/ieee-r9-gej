@@ -57,17 +57,17 @@ export type Dictionary = {
     volunteer: {
       role1: {
         title: string
-        position: string
+        position: string[]
         description: string
       }
       role2: {
         title: string
-        position: string
+        position: string[]
         description: string
       }
       role3: {
         title: string
-        position: string
+        position: string[]
         description: string
       }
     }
@@ -194,9 +194,9 @@ const dictionaries = {
   pt: () => import("./dictionaries/pt.json").then((module) => module.default),
 }
 
-export const getDictionary = async (locale: string): Promise<Dictionary> => {
-  if (!Object.keys(dictionaries).includes(locale)) {
+export const getDictionary = async (locale: keyof typeof dictionaries) => {
+  if (!dictionaries[locale]) {
     return dictionaries.en()
   }
-  return dictionaries[locale as keyof typeof dictionaries]()
+  return dictionaries[locale]()
 }

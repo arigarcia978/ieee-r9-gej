@@ -2,14 +2,14 @@
   "navigation": {
     "about": "About",
     "experience": "Experience",
-    "proposals": "Proposals",
-    "contact": "Contact"
+    "proposals": "Proposals"
   },
   "hero": {
     "title": "Gustavo E. Juárez",
     "subtitle": "Direct Elect Candidate for IEEE Región 9 2026-2027",
     "joinButton": "Join Our Campaign",
-    "learnButton": "Learn More"
+    "learnButton": "Learn More",
+    "connect": "Connect with Gustavo"
   },
   "about": {
     "title": "Who is Gustavo?",
@@ -20,7 +20,7 @@
     },
     "residence": {
       "title": "Residence",
-      "description": "San Miguel de Tucumán, Argentina"
+      "description": "Cruz Alta, Tucumán, Argentina"
     },
     "career": {
       "title": "IEEE Trayectory",
@@ -31,8 +31,8 @@
     "title": "Experience & Background",
     "description": "John brings a wealth of experience in both academic and community service roles",
     "tabs": {
-      "academic": "Academic Experience",
-      "volunteer": "Volunteering Experience"
+      "academic": "Academia",
+      "volunteer": "Volunteering"
     },
     "academic": {
       "degree1": {
@@ -54,22 +54,17 @@
     "volunteer": {
       "role1": {
         "title": "Universidad Nacional de Tucumán Student Branch",
-        "position": "Counselor (2013 - 2019)",
+        "position": ["Counselor (2013 - 2019)"],
         "description": "Winning three global SAC awards"
       },
       "role2": {
         "title": "IEEE Argentina Section",
-        "position1": "CIS Chapter Chair (2016)",
-        "position2": "Chair (2017 - 2018)",
-        "position3": "EdSoc Chapter Chair (2020 - 2021)",
+        "position": ["CIS Chapter Chair (2016)", "Chair (2017 - 2018)", "EdSoc Chapter Chair (2020 - 2021)"],
         "description": "Great achievements during this time?"
       },
       "role3": {
         "title": "IEEE Region 9",
-        "position1": "Vitality Ad-hoc Committee, Chair (2018 - 2019), Member (2020 - 2023)",
-        "position2": "Ethics Ad-hoc Committee, Member (2024 - 2025)",
-        "position3": "Latin America Transactions, Treasurer (2022 - 2025)",
-        "position4": "Assistant Treasurer (2024 - 2025)",
+        "position": ["Vitality Ad-hoc Committee, Chair (2018 - 2019), Member (2020 - 2023)", "Ethics Ad-hoc Committee, Member (2024 - 2025)", "Latin America Transactions, Treasurer (2022 - 2025)", "Assistant Treasurer (2024 - 2025)"],
         "description": "Dedicó más de 1,000 horas a la mentoría de jóvenes en riesgo"
       }
     }
@@ -93,7 +88,7 @@
       },
       "safety": {
         "title": "Strengthen links with Sections in R9",
-        "description": "Creando vecindarios más seguros para todos",
+        "description": "Building a community across the Region",
         "items": [
           "Among them, transversally through the councils",
           "Promote emerging technological initiatives with social impact",
@@ -103,27 +98,17 @@
       "education": {
         "title": "Serve members",
         "description": "Seeking to provide quality, added value and satisfaction/retention",
-        "items": [
-          "Increase retention",
-          "Design strategies to recruit members",
-          "Deliver added value"
-        ]
+        "items": ["Increase retention", "Design strategies to recruit members", "Deliver added value"]
       },
       "environment": {
         "title": "STEM Activities",
         "description": "Encourage STEM and sustainable technology activities",
-        "items": [
-          "Supporting lifelong learning",
-          "Improving diversity",
-          "Promoting IEEE membership"
-        ]
+        "items": ["Supporting lifelong learning", "Improving diversity", "Promoting IEEE membership"]
       },
       "housing": {
         "title": "Continuing education",
         "description": "Promote course certification",
-        "items": [
-          "Through the IEEE Credential Program."
-        ]
+        "items": ["Through the IEEE Credential Program."]
       }
     }
   },
@@ -141,57 +126,31 @@
   },
   "events": {
     "title": "Upcoming Events",
-    "description": "Join us at these upcoming campaign events",
+    "description": "Join us at these upcoming IEEE events",
     "viewAll": "View All Events",
     "event1": {
-      "title": "Town Hall Meeting",
-      "date": "May 15, 2025 • 7:00 PM",
-      "location": "Community Center, 123 Main Street",
-      "description": "Join us for an open discussion about the issues that matter most to our community. Bring your questions and concerns.",
-      "button": "RSVP"
+      "title": "Rising Stars",
+      "date": "August 15-17, 2025",
+      "location": "IEEE Region 9 Rising Stars Program",
+      "description": "Join the IEEE Region 9 Rising Stars program, designed to develop the next generation of IEEE leaders through mentorship and professional development.",
+      "button": "Learn More",
+      "url": "https://r9.ieee.org/risingstars-2025/"
     },
     "event2": {
-      "title": "Neighborhood Canvassing",
-      "date": "May 22, 2025 • 10:00 AM",
-      "location": "Campaign HQ, 456 Oak Avenue",
-      "description": "Help us spread our message door-to-door. Training and materials will be provided. Lunch included.",
-      "button": "Volunteer"
+      "title": "SBRM",
+      "date": "October 5-7, 2025",
+      "location": "IEEE Region 9 Student Branch Regional Meeting",
+      "description": "The Student Branch Regional Meeting brings together student leaders from across Latin America to share experiences and build networks.",
+      "button": "More Info",
+      "url": "https://www.instagram.com/ieeer9sbrm/p/DJMmmc6u2G7/?hl=es&img_index=1"
     },
     "event3": {
-      "title": "Fundraising Dinner",
-      "date": "June 5, 2025 • 6:30 PM",
-      "location": "Grand Hotel Ballroom, 789 River Road",
-      "description": "Join us for an evening of dinner and discussion to support our campaign. Special guest speakers.",
-      "button": "Purchase Tickets"
-    },
-    "event4": {
-      "title": "Community Clean-Up",
-      "date": "June 12, 2025 • 9:00 AM",
-      "location": "City Park, 321 Park Avenue",
-      "description": "Help us beautify our community with this volunteer clean-up event. Supplies and refreshments provided.",
-      "button": "Sign Up"
-    }
-  },
-  "contact": {
-    "title": "Get Involved",
-    "description": "There are many ways to support our campaign. Whether you want to volunteer, donate, or just stay informed, we'd love to hear from you.",
-    "email": "contact@johnsmith.com",
-    "phone": "(555) 123-4567",
-    "address": "123 Campaign HQ Street, City, State 12345",
-    "volunteerButton": "Volunteer",
-    "donateButton": "Donate",
-    "form": {
-      "title": "Join Our Campaign",
-      "subtitle": "Sign up to receive updates and get involved",
-      "firstName": "First name",
-      "lastName": "Last name",
-      "email": "Email",
-      "phone": "Phone",
-      "message": {
-        "label": "How would you like to help?",
-        "placeholder": "I'm interested in volunteering..."
-      },
-      "submitButton": "Submit"
+      "title": "SPARK Program",
+      "date": "October 5-7, 2025 (during SBRM)",
+      "location": "2nd Counselors, Advisors, SSAC and SSRs Training",
+      "description": "Specialized training program for counselors, advisors, and student representatives to enhance their leadership and mentoring capabilities.",
+      "button": "Register",
+      "url": "#"
     }
   },
   "footer": {

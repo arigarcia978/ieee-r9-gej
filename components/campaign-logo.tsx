@@ -1,14 +1,21 @@
-import { Star } from "lucide-react"
+import Image from "next/image"
+import candidateLogo from "../public/images/gustavo-header-logo.png" 
 
 export function CampaignLogo() {
   return (
-    <div className="flex items-center gap-2">
-      <div className="flex h-8 w-8 items-center justify-center rounded-full bg-lapis-lazuli">
-        <Star className="h-4 w-4 text-white" />
+    <div className="flex items-center gap-3">
+      <div className="relative">
+        <Image
+          src={candidateLogo}
+          alt="Gustavo E. Juárez"
+          width={56}
+          height={56}
+          className="rounded-full object-cover border-2 border-slate-200"
+          style={{ objectPosition: "center center" }}
+        />
       </div>
       <div className="flex flex-col">
-        <span className="text-xl font-bold">John Smith</span>
-        <span className="text-xs text-muted-foreground">for City Council</span>
+        <span className="text-base font-semibold text-slate-900 leading-tight">GUSTAVO E. JUÁREZ</span>
       </div>
     </div>
   )

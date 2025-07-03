@@ -6,202 +6,159 @@
     "contact": "Contato"
   },
   "hero": {
-    "title": "Liderança Que Funciona Para Todos",
-    "subtitle": "Construindo uma comunidade mais forte através de políticas inclusivas, governança transparente e soluções inovadoras.",
+    "title": "Gustavo E. Juárez",
+    "subtitle": "Candidato a Diretor Eleito para IEEE Região 9 2026-2027",
     "joinButton": "Junte-se à Nossa Campanha",
-    "learnButton": "Saiba Mais"
+    "learnButton": "Saiba Mais",
+    "connect": "Conecte-se com Gustavo"
   },
   "about": {
-    "title": "Sobre John Smith",
-    "description": "John Smith é um servidor público dedicado com mais de 15 anos de experiência em liderança comunitária. Nascido e criado em nossa cidade, John entende os desafios e oportunidades únicos que enfrentamos.",
+    "title": "Quem é Gustavo?",
+    "description": "Membro desde 2008 e Membro Sênior desde 2013",
     "family": {
-      "title": "Família",
-      "description": "Casado há 20 anos com dois filhos em escolas públicas locais"
+      "title": "Carreira",
+      "description": "Professor e Pesquisador em Ciência da Computação e Inteligência Artificial.\nDiretor do Laboratório de Inteligência Artificial - FACET UNT"
     },
     "residence": {
-      "title": "Residência",
-      "description": "Residente de longa data do bairro do Distrito Norte"
+      "title": "Onde Moro",
+      "description": "Cruz Alta, Tucumán, Argentina"
     },
     "career": {
-      "title": "Carreira",
-      "description": "Proprietário de pequena empresa e ex-comissário de planejamento urbano"
+      "title": "Trajetória no IEEE",
+      "description": "Membro desde 2008 e Membro Sênior desde 2013"
     }
   },
   "experience": {
-    "title": "Experiência e Histórico",
-    "description": "John traz uma vasta experiência tanto em funções acadêmicas quanto de serviço comunitário",
+    "title": "Experiência e Formação",
+    "description": "Gustavo possui uma vasta experiência em funções acadêmicas e de serviços comunitários",
     "tabs": {
-      "academic": "Experiência Acadêmica",
-      "volunteer": "Trabalho Voluntário"
+      "academic": "Academia",
+      "volunteer": "Voluntariado"
     },
     "academic": {
       "degree1": {
-        "title": "Mestrado em Administração Pública",
-        "institution": "Universidade Estadual, 2008",
-        "description": "Especializado em Planejamento e Desenvolvimento Urbano com honras. Tese sobre modelos sustentáveis de crescimento urbano."
+        "title": "Diretor - PDTS - CIN-COCINET",
+        "institution": "2016 - 2019",
+        "description": "Projeto de Navegação Inteligente de Sistemas Aéreos Autônomos (PRONISAA)"
       },
       "degree2": {
-        "title": "Bacharelado em Ciências Políticas",
-        "institution": "Faculdade da Cidade, 2004",
-        "description": "Graduado com summa cum laude. Presidente do corpo estudantil e fundador da Iniciativa de Alcance Comunitário."
+        "title": "Diretor - PIDDEF - Ministério da Defesa da Argentina",
+        "institution": "2017 - 2019",
+        "description": "Operações de Monitoramento em Missões de Paz com Drones (MOMPAD)"
       },
       "certification": {
-        "title": "Planejador Urbano Certificado",
-        "institution": "Associação Americana de Planejamento, 2010",
-        "description": "Certificação profissional em planejamento urbano com foco em desenvolvimento comunitário e revitalização."
+        "title": "Diretor - PID - Agência",
+        "institution": "2018 - 2026",
+        "description": "Processamento de Informação Digital em Instrumentação, Controle e Comunicações Digitais"
       }
     },
     "volunteer": {
       "role1": {
-        "title": "Habitat para a Humanidade",
-        "position": "Membro do Conselho, 2015-Presente",
-        "description": "Ajudou a coordenar a construção de mais de 50 casas acessíveis para famílias necessitadas em toda a região."
+        "title": "Ramo Estudantil da Universidade Nacional de Tucumán",
+        "position": ["Conselheiro (2013 - 2019)"],
+        "description": "Vencedor de três prêmios globais: SAC"
       },
       "role2": {
-        "title": "Banco de Alimentos da Cidade",
-        "position": "Coordenador de Voluntários, 2012-2018",
-        "description": "Organizou eventos semanais de distribuição de alimentos atendendo mais de 200 famílias por semana. Recrutou e treinou voluntários."
+        "title": "Seção IEEE Argentina",
+        "position": ["Presidente do Capítulo CIS (2016)", "Presidente (2017 - 2018)", "Presidente do Capítulo EdSoc (2020 - 2021)"],
+        "description": "Grandes conquistas durante este período"
       },
       "role3": {
-        "title": "Programa de Mentoria Juvenil",
-        "position": "Mentor, 2010-Presente",
-        "description": "Dedicou mais de 1.000 horas orientando jovens em risco, ajudando-os a desenvolver habilidades para a vida e caminhos profissionais."
+        "title": "IEEE Região 9",
+        "position": ["Comitê Ad-hoc de Vitalidade: Presidente (2018 - 2019) e Membro (2020 - 2023)", "Comitê Ad-hoc de Ética: Membro (2024 - 2025)", "Latin America Transactions: Tesoureiro (2022 - 2025)", "Tesoureiro Adjunto (2024 - 2025)"],
+        "description": "Dedicou mais de 1.000 horas à mentoria de jovens em situação de risco"
       }
     }
   },
   "proposals": {
     "title": "Minhas Propostas",
-    "description": "Um plano abrangente para um futuro melhor para nossa comunidade",
-    "viewAll": "Ver Plataforma Completa",
+    "description": "Um plano integrado para transformar o futuro da nossa comunidade",
+    "viewAll": "Ver detalhes",
     "categories": {
       "economic": {
-        "title": "Desenvolvimento Econômico",
-        "description": "Apoiando empresas locais e criando empregos",
+        "title": "Fortalecer comitês na Região 9",
+        "description": "Especializando suas ações e também sua composição",
         "items": [
-          "Incentivos fiscais para pequenas empresas",
-          "Processo simplificado de licenciamento para novos negócios",
-          "Programas de treinamento profissional para residentes"
+          "É necessário integrá-los com membros que se destaquem pelo compromisso com a colaboração, empatia, responsabilidade e comunicação aberta dos planos e sua evolução."
         ]
       },
       "infrastructure": {
-        "title": "Infraestrutura",
-        "description": "Melhorando nossas estradas, parques e espaços públicos",
-        "items": [
-          "Programa abrangente de reparação de estradas",
-          "Expansão de parques públicos e espaços verdes",
-          "Modernização de instalações públicas"
-        ]
+        "title": "Promover Reconhecimento dos Voluntários",
+        "description": "Reconhecer a excelência, conquistas técnico-profissionais, inovação e impacto social.",
+        "items": []
       },
       "safety": {
-        "title": "Segurança Pública",
-        "description": "Criando bairros mais seguros para todos",
+        "title": "Fortalecer vínculos com Seções da R9",
+        "description": "Criando uma comunidade em toda a Região 9",
         "items": [
-          "Iniciativas de policiamento comunitário",
-          "Melhor iluminação em áreas de alto risco",
-          "Programas de engajamento juvenil"
+          "De forma transversal por meio dos conselhos",
+          "Promover iniciativas tecnológicas emergentes com impacto social",
+          "Estimular a replicabilidade em outras unidades organizacionais"
         ]
       },
       "education": {
-        "title": "Educação",
-        "description": "Apoiando nossas escolas e estudantes",
-        "items": [
-          "Aumento do financiamento para escolas públicas",
-          "Expansão de programas após a escola",
-          "Iniciativas de retenção de professores"
-        ]
+        "title": "Atrair e Reter Membros",
+        "description": "Promover qualidade, valor agregado e satisfação",
+        "items": ["Aumentar a retenção", "Desenhar estratégias para recrutar membros", "Oferecer valor agregado"]
       },
       "environment": {
-        "title": "Meio Ambiente",
-        "description": "Criando um futuro sustentável",
-        "items": [
-          "Iniciativas de energia limpa para edifícios municipais",
-          "Programas ampliados de reciclagem",
-          "Plantio de árvores e silvicultura urbana"
-        ]
+        "title": "Atividades em STEM",
+        "description": "Incentivar atividades em STEM e tecnologias sustentáveis",
+        "items": ["Apoiar a aprendizagem contínua", "Melhorar a diversidade", "Promover a membresia IEEE"]
       },
       "housing": {
-        "title": "Habitação",
-        "description": "Tornando a habitação acessível e disponível",
-        "items": [
-          "Incentivos para o desenvolvimento de habitações acessíveis",
-          "Assistência para compradores de primeira casa",
-          "Programas de assistência ao aluguel"
-        ]
+        "title": "Educação continuada",
+        "description": "Promover Cursos com Certificação",
+        "items": ["Através do IEEE Credential Program."]
       }
     }
   },
   "gallery": {
     "title": "Galeria da Campanha",
-    "description": "John Smith em ação, servindo nossa comunidade",
+    "description": "Gustavo em ação, presente em atividades do IEEE em diferentes partes da América Latina",
     "images": {
-      "alt1": "John Smith falando em evento comunitário",
-      "alt2": "John Smith voluntariando em campanha de alimentos",
-      "alt3": "John Smith reunindo-se com eleitores",
-      "alt4": "John Smith em reunião da câmara municipal",
-      "alt5": "John Smith com família no parque comunitário",
-      "alt6": "John Smith em cerimônia de inauguração"
+      "alt1": "Gustavo palestrando em evento comunitário",
+      "alt2": "Gustavo voluntariando em campanha solidária",
+      "alt3": "Gustavo reunido com membros da comunidade",
+      "alt4": "Gustavo em reunião de conselho",
+      "alt5": "Gustavo com a família em parque comunitário",
+      "alt6": "Gustavo em cerimônia de inauguração"
     }
   },
   "events": {
     "title": "Próximos Eventos",
-    "description": "Junte-se a nós nestes próximos eventos de campanha",
+    "description": "Participe dos próximos eventos IEEE",
     "viewAll": "Ver Todos os Eventos",
     "event1": {
-      "title": "Reunião Pública",
-      "date": "15 de maio de 2025 • 19:00",
-      "location": "Centro Comunitário, 123 Rua Principal",
-      "description": "Junte-se a nós para uma discussão aberta sobre os assuntos que mais importam para nossa comunidade. Traga suas perguntas e preocupações.",
-      "button": "Confirmar Presença"
+      "title": "Rising Stars",
+      "date": "15 a 17 de agosto, 2025",
+      "location": "Programa Rising Stars IEEE Região 9",
+      "description": "Participe do programa Rising Stars da IEEE Região 9, projetado para desenvolver a próxima geração de líderes IEEE através de mentoria e desenvolvimento profissional.",
+      "button": "Saiba Mais",
+      "url": "https://r9.ieee.org/risingstars-2025/"
     },
     "event2": {
-      "title": "Campanha no Bairro",
-      "date": "22 de maio de 2025 • 10:00",
-      "location": "Sede da Campanha, 456 Avenida Carvalho",
-      "description": "Ajude-nos a divulgar nossa mensagem de porta em porta. Treinamento e materiais serão fornecidos. Almoço incluído.",
-      "button": "Voluntariar-se"
+      "title": "SBRM",
+      "date": "5 a 7 de outubro, 2025",
+      "location": "Reunião Regional de Ramos Estudantis IEEE Região 9",
+      "description": "A Reunião Regional de Ramos Estudantis reúne líderes estudantis de toda a América Latina para compartilhar experiências e construir redes.",
+      "button": "Mais Info",
+      "url": "https://www.instagram.com/ieeer9sbrm/p/DJMmmc6u2G7/?hl=es&img_index=1"
     },
     "event3": {
-      "title": "Jantar de Arrecadação de Fundos",
-      "date": "5 de junho de 2025 • 18:30",
-      "location": "Salão de Festas do Grande Hotel, 789 Estrada do Rio",
-      "description": "Junte-se a nós para uma noite de jantar e discussão para apoiar nossa campanha. Palestrantes convidados especiais.",
-      "button": "Comprar Ingressos"
-    },
-    "event4": {
-      "title": "Limpeza Comunitária",
-      "date": "12 de junho de 2025 • 9:00",
-      "location": "Parque da Cidade, 321 Avenida do Parque",
-      "description": "Ajude-nos a embelezar nossa comunidade com este evento voluntário de limpeza. Suprimentos e refrescos fornecidos.",
-      "button": "Inscrever-se"
-    }
-  },
-  "contact": {
-    "title": "Envolva-se",
-    "description": "Existem muitas maneiras de apoiar nossa campanha. Seja você quer ser voluntário, doar ou apenas manter-se informado, adoraríamos ouvir de você.",
-    "email": "contato@johnsmith.com",
-    "phone": "(555) 123-4567",
-    "address": "123 Rua Sede da Campanha, Cidade, Estado 12345",
-    "volunteerButton": "Voluntariar-se",
-    "donateButton": "Doar",
-    "form": {
-      "title": "Junte-se à Nossa Campanha",
-      "subtitle": "Inscreva-se para receber atualizações e envolver-se",
-      "firstName": "Nome",
-      "lastName": "Sobrenome",
-      "email": "Email",
-      "phone": "Telefone",
-      "message": {
-        "label": "Como você gostaria de ajudar?",
-        "placeholder": "Estou interessado em ser voluntário..."
-      },
-      "submitButton": "Enviar"
+      "title": "Programa SPARK",
+      "date": "5 a 7 de outubro, 2025 (durante SBRM)",
+      "location": "2º Treinamento de Conselheiros, Assessores, SSAC e SSRs",
+      "description": "Programa de treinamento especializado para conselheiros, assessores e representantes estudantis para aprimorar suas capacidades de liderança e mentoria.",
+      "button": "Registrar",
+      "url": "#"
     }
   },
   "footer": {
     "rights": "Todos os direitos reservados.",
     "privacy": "Política de Privacidade",
-    "terms": "Termos de Serviço",
-    "contact": "Contato"
+    "terms": "Recursos da Eleição do IEEE",
+    "contact": "Candidatos à Eleição Anual do IEEE"
   },
   "languageSwitcher": {
     "label": "Idioma"

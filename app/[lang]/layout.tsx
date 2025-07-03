@@ -16,7 +16,7 @@ export async function generateMetadata({
   const dict = await getDictionary(params.lang)
 
   return {
-    title: "Gustavo Juarez",
+    title: "John Smith for City Council",
     description: dict.hero.subtitle,
   }
 }

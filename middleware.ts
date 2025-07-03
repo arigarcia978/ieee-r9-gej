@@ -1,41 +1,38 @@
 import { NextResponse } from "next/server"
 import type { NextRequest } from "next/server"
-import { match } from "@formatjs/intl-localematcher"
-import Negotiator from "negotiator"
 
-// List of supported locales
 export const locales = ["en", "es", "pt"]
 export const defaultLocale = "en"
 
-// Get the preferred locale from the request
 function getLocale(request: NextRequest) {
-  // Negotiator expects a plain object so we need to transform headers
-  const negotiatorHeaders: Record<string, string> = {}
-  request.headers.forEach((value, key) => (negotiatorHeaders[key] = value))
-
-  // Use negotiator and intl-localematcher to get the best locale
-  const languages = new Negotiator({ headers: negotiatorHeaders }).languages()
-  return match(languages, locales, defaultLocale)
+  const acceptLanguage = request.headers.get("accept-language")
+  if (acceptLanguage) {
+    const languages = acceptLanguage.split(",").map((lang) => lang.split(";")[0].trim())
+    for (const lang of languages) {
+      if (locales.includes(lang)) {
+        return lang
+      }
+      const shortLang = lang.split("-")[0]
+      if (locales.includes(shortLang)) {
+        return shortLang
+      }
+    }
+  }
+  return defaultLocale
 }
 
 export function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname
+  const pathnameIsMissingLocale = locales.every(
+    (locale) => !pathname.startsWith(`/${locale}/`) && pathname !== `/${locale}`,
+  )
 
-  // Check if the pathname already has a locale
-  const pathnameHasLocale = locales.some((locale) => pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`)
-
-  if (pathnameHasLocale) return
-
-  // Redirect if there is no locale in the pathname
-  const locale = getLocale(request)
-  request.nextUrl.pathname = `/${locale}${pathname}`
-
-  return NextResponse.redirect(request.nextUrl)
+  if (pathnameIsMissingLocale) {
+    const locale = getLocale(request)
+    return NextResponse.redirect(new URL(`/${locale}${pathname}`, request.url))
+  }
 }
 
 export const config = {
-  matcher: [
-    // Skip all internal paths (_next)
-    "/((?!_next|api|favicon.ico).*)",
-  ],
+  matcher: ["/((?!api|_next/static|_next/image|favicon.ico).*)"],
 }
