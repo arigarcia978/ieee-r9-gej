@@ -11,13 +11,16 @@ const inter = Inter({ subsets: ["latin"] })
 export async function generateMetadata({
   params,
 }: {
-  params: { lang: string }
+  params: { lang: "en" | "es" | "pt" }
 }): Promise<Metadata> {
   const dict = await getDictionary(params.lang)
 
   return {
-    title: "John Smith for City Council",
+    title: "Gustavo E. Juarez",
     description: dict.hero.subtitle,
+    icons: {
+      icon: ['/favicon.png'], // Ensure this is an array
+    },
   }
 }
 

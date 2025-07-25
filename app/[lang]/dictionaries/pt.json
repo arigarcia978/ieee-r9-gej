@@ -14,7 +14,7 @@
   },
   "about": {
     "title": "Quem é Gustavo?",
-    "description": "Membro desde 2008 e Membro Sênior desde 2013",
+    "description": "Profissional de Inteligência Artificial com 25 anos de experiência acadêmica universitária, membro do IEEE e da Fundação para o Estudo e Tratamento de Doenças Hemato-Oncológicas (FEDEH), com 17 anos como voluntário em ambas as organizações e 36 anos como professor (ensino fundamental, médio e universitário).",
     "family": {
       "title": "Carreira",
       "description": "Professor e Pesquisador em Ciência da Computação e Inteligência Artificial.\nDiretor do Laboratório de Inteligência Artificial - FACET UNT"
@@ -25,7 +25,7 @@
     },
     "career": {
       "title": "Trajetória no IEEE",
-      "description": "Membro desde 2008 e Membro Sênior desde 2013"
+      "description": "Membro desde 2008, Membro Sênior desde 2013 e HKN 2020"
     }
   },
   "experience": {
@@ -37,17 +37,17 @@
     },
     "academic": {
       "degree1": {
-        "title": "Diretor - PDTS - CIN-COCINET",
+        "title": "Diretor de Projetos de Desenvolvimento Tecnológico e Social (PDTS). Ministério da Ciência, Tecnologia e Inovação da República Argentina",
         "institution": "2016 - 2019",
         "description": "Projeto de Navegação Inteligente de Sistemas Aéreos Autônomos (PRONISAA)"
       },
       "degree2": {
-        "title": "Diretor - PIDDEF - Ministério da Defesa da Argentina",
+        "title": "Diretor do Programa de Pesquisa e Desenvolvimento de Defesa, Ministério da Defesa da República Argentina (PIDDEF)",
         "institution": "2017 - 2019",
         "description": "Operações de Monitoramento em Missões de Paz com Drones (MOMPAD)"
       },
       "certification": {
-        "title": "Diretor - PID - Agência",
+        "title": "Diretor de Projetos de Pesquisa e Desenvolvimento da Agência Nacional de Promoção da Pesquisa, Desenvolvimento Tecnológico e Inovação da República Argentina",
         "institution": "2018 - 2026",
         "description": "Processamento de Informação Digital em Instrumentação, Controle e Comunicações Digitais"
       }
@@ -72,62 +72,82 @@
   },
   "proposals": {
     "title": "Minhas Propostas",
-    "description": "Um plano integrado para transformar o futuro da nossa comunidade",
-    "viewAll": "Ver detalhes",
+    "description": "",
+    "viewAll": "Ver Plataforma Completa",
     "categories": {
       "economic": {
         "title": "Fortalecer comitês na Região 9",
-        "description": "Especializando suas ações e também sua composição",
+        "description": "",
         "items": [
-          "É necessário integrá-los com membros que se destaquem pelo compromisso com a colaboração, empatia, responsabilidade e comunicação aberta dos planos e sua evolução."
+          "Especializar o trabalho de comitês com abordagens estratégicas e resultados mensuráveis.",
+          "Coordenar equipes comprometidas com empatia, responsabilidade e comunicação transparente do progresso.",
+          "Promover a colaboração ativa entre as seções da Região para maximizar o impacto regional."
         ]
       },
       "infrastructure": {
-        "title": "Promover Reconhecimento dos Voluntários",
-        "description": "Reconhecer a excelência, conquistas técnico-profissionais, inovação e impacto social.",
+        "title": "Crie o 'IEEE YP Entrepreneurship & AI Hub'",
+        "description": "Um ecossistema para impulsionar startups de tecnologia por meio de bootcamps de IA, oferecendo mentoria com especialistas do IEEE focados em desafios regionais de inovação, conectando jovens profissionais com a indústria e promovendo soluções escaláveis alinhadas à missão de impacto global do IEEE.",
         "items": []
       },
       "safety": {
-        "title": "Fortalecer vínculos com Seções da R9",
-        "description": "Criando uma comunidade em toda a Região 9",
+        "title": "Colaborar para criar uma comunidade mais unida e colaborativa",
+        "description": "",
         "items": [
-          "De forma transversal por meio dos conselhos",
-          "Promover iniciativas tecnológicas emergentes com impacto social",
-          "Estimular a replicabilidade em outras unidades organizacionais"
+          "Fortalecer a integração de conhecimento e experiência entre as seções, facilitando a troca de ideias, melhores práticas e palestrantes principais.",
+          "Promover iniciativas com impacto social, fomentando projetos replicáveis que beneficiem suas comunidades."
         ]
       },
       "education": {
-        "title": "Atrair e Reter Membros",
-        "description": "Promover qualidade, valor agregado e satisfação",
-        "items": ["Aumentar a retenção", "Desenhar estratégias para recrutar membros", "Oferecer valor agregado"]
+        "title": "Garantir um serviço de qualidade aos nossos associados",
+        "description": "",
+        "items": [
+          "Fortalecer a retenção de membros por meio de oportunidades que impulsionem o crescimento profissional, conexões estratégicas e benefícios com impacto real, alinhados à nossa missão de Avançar a Tecnologia para a Humanidade.",
+          "Atraia novos membros com estratégias claras focadas nos serviços que o IEEE oferece: Desenvolvimento Profissional, Networking e Impacto Social.",
+          "Ouça ativamente as necessidades dos membros para oferecer soluções reais."
+        ]
       },
       "environment": {
-        "title": "Atividades em STEM",
-        "description": "Incentivar atividades em STEM e tecnologias sustentáveis",
-        "items": ["Apoiar a aprendizagem contínua", "Melhorar a diversidade", "Promover a membresia IEEE"]
+        "title": "Promovendo a educação STEM e a tecnologia sustentável",
+        "description": "",
+        "items": [
+          "Promova atividades STEM que inspirem novas gerações.",
+          "Promover a diversidade e a inclusão em todos os níveis do IEEE.",
+          "Apoie o aprendizado contínuo vinculando o treinamento às demandas do mercado."
+        ]
       },
       "housing": {
-        "title": "Educação continuada",
-        "description": "Promover Cursos com Certificação",
-        "items": ["Através do IEEE Credential Program."]
+        "title": "Apoiar a educação continuada e a certificação profissional",
+        "description": "",
+        "items": [
+          "Disseminar o acesso às certificações, cursos e workshops do IEEE.",
+          "Melhorar as habilidades técnicas e de liderança dos nossos membros para fortalecer sua formação profissional."
+        ]
       }
     }
   },
   "gallery": {
-    "title": "Galeria da Campanha",
-    "description": "Gustavo em ação, presente em atividades do IEEE em diferentes partes da América Latina",
-    "images": {
-      "alt1": "Gustavo palestrando em evento comunitário",
-      "alt2": "Gustavo voluntariando em campanha solidária",
-      "alt3": "Gustavo reunido com membros da comunidade",
-      "alt4": "Gustavo em reunião de conselho",
-      "alt5": "Gustavo com a família em parque comunitário",
-      "alt6": "Gustavo em cerimônia de inauguração"
-    }
+    "title": "Gustavo em ação",
+    "description": "Gustavo participou e organizou inúmeras atividades do IEEE pela América Latina",
+    "images": [{
+      "path": "/events/Congreso Betcon 2016- BOL.JPG",
+      "description": "BETCON, Congresso Boliviano de Engenharia e Tecnologia: Presidente Geral, 2013 e Membro do Comitê Diretor e palestrante convidado, 2009-2011, 2015-2016."
+    }, {
+      "path": "/events/Congreso WESCIS 2018.jpg",
+      "description": "WESCIS. Workshop conjunto argentino dos capítulos EdSoc e CIS e das unidades estudantis de Tucumán (UTN-FRT e UNT). 8 edições realizadas até o momento: de 2013 a 2019 e 2023. Membro do Comitê Diretor e Palestrante Convidado."
+    }, {
+      "path": "/events/PREMIO - 2017 Darrel Chong Award - TISP Alta Montana.png",
+      "description": "Durante 2017, Conselheiro do Ramo Estudantil da Universidade Nacional de Tucuman, que recebeu o Prêmio IEEE MGA Darrel Chong Silver pela atividade 'TISP de alta montaña' (High Mountain TISP)."
+    }, {
+      "path": "/events/Congreso WESCIS 2017 - TUCUMAN 3 - ARG.png",
+      "description": "2017 - Prêmio MGA Outstanding Branch Counselor: 'Em reconhecimento e apreciação aos valiosos serviços e contribuições como Outstanding Branch Counselor na UNT Student Branch'."
+    }, {
+      "path": "/events/SC 2017 - Sydney - AUS.png",
+      "description": "Congressos das Seções 2017, Austrália, como Delegado da Seção Argentina. Palestrante em duas sessões: 'Prêmio MGA Outstanding Medium Section 2016', recebido pela Seção Argentina, e 'Programa de Palestrantes Locais (PDL)', da Seção Argentina."
+    }]
   },
   "events": {
     "title": "Próximos Eventos",
-    "description": "Participe dos próximos eventos IEEE",
+    "description": "Faça parte do futuro da Região 9 do IEEE! Conecte-se, aprenda e contribua.",
     "viewAll": "Ver Todos os Eventos",
     "event1": {
       "title": "Rising Stars",
@@ -158,7 +178,8 @@
     "rights": "Todos os direitos reservados.",
     "privacy": "Política de Privacidade",
     "terms": "Recursos da Eleição do IEEE",
-    "contact": "Candidatos à Eleição Anual do IEEE"
+    "contact": "Candidatos à Eleição Anual do IEEE",
+    "disclaimer": "As opiniões expressas aqui são as opiniões do autor e não necessariamente as opiniões do IEEE."
   },
   "languageSwitcher": {
     "label": "Idioma"

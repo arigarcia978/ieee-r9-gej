@@ -6,14 +6,14 @@
   },
   "hero": {
     "title": "Gustavo E. Juárez",
-    "subtitle": "Direct Elect Candidate for IEEE Región 9 2026-2027",
+    "subtitle": "Director Elect Candidate for IEEE Region 9 2026-2027",
     "joinButton": "Join Our Campaign",
     "learnButton": "Learn More",
     "connect": "Connect with Gustavo"
   },
   "about": {
     "title": "Who is Gustavo?",
-    "description": "Member since 2008 and Senior Member since 2013",
+    "description": "Artificial Intelligence professional with 25 years in university academia, member of IEEE and the Foundation for the Study and Treatment of Hemato-Oncological Diseases (FEDEH) with 17 years as a volunteer in both organizations, and 36 years as a teacher (primary, secondary and university).",
     "family": {
       "title": "Career",
       "description": "Professor and Researcher in Computer Science and Artificial Intelligence. \n Director of the Artificial Intelligence Laboratory - FACET UNT"
@@ -24,7 +24,7 @@
     },
     "career": {
       "title": "IEEE Trayectory",
-      "description": "Member since 2008 and Senior Member since 2013"
+      "description": "Member since 2008, Senior Member since 2013 and HKN 2020"
     }
   },
   "experience": {
@@ -36,17 +36,17 @@
     },
     "academic": {
       "degree1": {
-        "title": "Director - PDTS - CIN-COCINET",
+        "title": "Director of the Technological and Social Development Projects (PDTS). Ministry of Science, Technology and Innovation of the Argentine Republic",
         "institution": "2016 - 2019",
         "description": "Intelligent Navigation of Autonomous Aerial Systems Project (PRONISAA)"
       },
       "degree2": {
-        "title": "Director - PIDDEF - Ministery of Defense of Argentina",
+        "title": "Director of the Defense Research and Development Program, Ministry of Defense of the Argentine Republic (PIDDEF)",
         "institution": "2017 - 2019",
         "description": "Monitoring Operations in Peacekeeping Missions with Drones (MOMPAD)"
       },
       "certification": {
-        "title": "Director - PID - Agencia",
+        "title": "Director of Research and Development Projects at the National Agency for the Promotion of Research, Technological Development and Innovation, of the Argentine Republic",
         "institution": "2018 - 2026",
         "description": "Digital Information Processing in Instrumentation, Control and Digital Communications"
       }
@@ -71,62 +71,82 @@
   },
   "proposals": {
     "title": "My Proposals",
-    "description": "A comprehensive plan for a better future for our community",
-    "viewAll": "View Full Platform",
+    "description": "",
+    "viewAll": "Ver Plataforma Completa",
     "categories": {
       "economic": {
-        "title": "Strengthening committees in Region 9",
-        "description": "Specializing their actions, as well as their composition",
+        "title": "Strengthen the committees of Region 9",
+        "description": "",
         "items": [
-          "It is necessary to integrate them with members who stand out for their commitment to collaboration, empathy, responsibility and open communication of plans and their evolution."
+          "Specialize the work of committees with strategic approaches and measurable results.",
+          "Coordinate committed teams with empathy, responsibility, and transparent communication of progress.",
+          "Promote active collaboration between the Region's sections to maximize regional impact."
         ]
       },
       "infrastructure": {
-        "title": "Promote Recognition",
-        "description": "Recognize excellence, technical-professional achievements, innovation and social impact.",
+        "title": "Create the 'IEEE YP Entrepreneurship & AI Hub'",
+        "description": "An ecosystem to boost technology startups through AI bootcamps, offering mentorship with IEEE experts focused on regional innovation challenges, connecting young professionals with the industry, and promoting scalable solutions aligned with IEEE's mission of global impact.",
         "items": []
       },
       "safety": {
-        "title": "Strengthen links with Sections in R9",
-        "description": "Building a community across the Region",
+        "title": "Collaborate to create a more united and collaborative community",
+        "description": "",
         "items": [
-          "Among them, transversally through the councils",
-          "Promote emerging technological initiatives with social impact",
-          "Promoting replicability in other UOs"
+          "Strengthen the integration of knowledge and experience across sections, facilitating the exchange of ideas, best practices, and keynote speakers.",
+          "Promote initiatives with social impact, promoting replicable projects that benefit their communities."
         ]
       },
       "education": {
-        "title": "Serve members",
-        "description": "Seeking to provide quality, added value and satisfaction/retention",
-        "items": ["Increase retention", "Design strategies to recruit members", "Deliver added value"]
+        "title": "Ensure quality service to our members",
+        "description": "",
+        "items": [
+          "Strengthen member retention through opportunities that drive professional growth, strategic connections, and benefits with real impact, aligned with our mission of Advancing Technology for Humanity.",
+          "Attract new members with clear strategies focused on the services IEEE provides: Professional Development, Networking, and Social Impact.",
+          "Actively listen to members' needs to offer real solutions."
+        ]
       },
       "environment": {
-        "title": "STEM Activities",
-        "description": "Encourage STEM and sustainable technology activities",
-        "items": ["Supporting lifelong learning", "Improving diversity", "Promoting IEEE membership"]
+        "title": "Promote STEM education and sustainable technology",
+        "description": "",
+        "items": [
+          "Promote STEM activities that inspire new generations.",
+          "Promote diversity and inclusion at all levels of IEEE.",
+          "Support continuous learning by linking training to market demands."
+        ]
       },
       "housing": {
-        "title": "Continuing education",
-        "description": "Promote course certification",
-        "items": ["Through the IEEE Credential Program."]
+        "title": "Support continuing education and professional certification",
+        "description": "",
+        "items": [
+          "Disseminate access to IEEE Certifications, courses, and workshops.",
+          "To enhance the technical and leadership skills of our members to strengthen their professional training."
+        ]
       }
     }
   },
   "gallery": {
-    "title": "Campaign Gallery",
-    "description": "Gustavo in action, present at IEEE activities in different parts of Latin America",
-    "images": {
-      "alt1": "John Smith speaking at community event",
-      "alt2": "John Smith volunteering at food drive",
-      "alt3": "John Smith meeting with constituents",
-      "alt4": "John Smith at city council meeting",
-      "alt5": "John Smith with family at community park",
-      "alt6": "John Smith at ribbon cutting ceremony"
-    }
+    "title": "Gustavo in action",
+    "description": "Gustavo has participated and organized countless IEEE activities across Latin America",
+    "images": [{
+      "path": "/events/Congreso Betcon 2016- BOL.JPG",
+      "description": "BETCON, Bolivian Engineering and Technology Congress: General Chair, 2013 and Steering Committee Member and invited speaker, 2009 -2011, 2015 - 2016."
+    }, {
+      "path": "/events/Congreso WESCIS 2018.jpg",
+      "description": "WESCIS. Argentinean Joint Workshop of EdSoc and CIS Chapters and the  Tucumán Student Branches (UTN-FRT and UNT). 8 editions made so far: 2013 through 2019 and 2023. Steering Committee Member and Invited Speaker."
+    }, {
+      "path": "/events/PREMIO - 2017 Darrel Chong Award - TISP Alta Montana.png",
+      "description": "During  2017, Counselor of the Universidad Nacional de Tucuman Student Branch, who received the IEEE MGA Darrel Chong Silver Award for the 'TISP de alta montaña'(High Mountain TISP) activity."
+    }, {
+      "path": "/events/Congreso WESCIS 2017 - TUCUMAN 3 - ARG.png",
+      "description": "2017 - MGA Outstanding Branch Counselor Award: 'In recognition and appreciation of valued services and contributions as Outstanding Branch Counselor at the UNT Student Branch'."
+    }, {
+      "path": "/events/SC 2017 - Sydney - AUS.png",
+      "description": "Sections Congresses 2017, Australia, as Delegate of the Argentina Section. Speaker at two sessions: 'MGA Outstanding Medium Section Award 2016' received by the Argentina Section and 'Local Lecturers Program (PDL)' of the Argentina Section."
+    }]
   },
   "events": {
     "title": "Upcoming Events",
-    "description": "Join us at these upcoming IEEE events",
+    "description": "Be part of the future of IEEE Region 9! Connect, learn, and contribute.",
     "viewAll": "View All Events",
     "event1": {
       "title": "Rising Stars",
@@ -157,7 +177,8 @@
     "rights": "All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "IEEE Election Resources",
-    "contact": "IEEE Annual Election Candidates"
+    "contact": "IEEE Annual Election Candidates",
+    "disclaimer": "The opinions expressed herein are the opinions of the author and not necessarily the opinions of IEEE."
   },
   "languageSwitcher": {
     "label": "Language"

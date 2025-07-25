@@ -113,13 +113,9 @@ export type Dictionary = {
     title: string
     description: string
     images: {
-      alt1: string
-      alt2: string
-      alt3: string
-      alt4: string
-      alt5: string
-      alt6: string
-    }
+      path: string
+      description: string
+    }[]
   }
   events: {
     title: string
@@ -181,6 +177,7 @@ export type Dictionary = {
     privacy: string
     terms: string
     contact: string
+    disclaimer: string
   }
   languageSwitcher: {
     label: string

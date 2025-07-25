@@ -24,7 +24,8 @@ import { getDictionary } from "./dictionaries"
 import { LanguageSwitcher } from "@/components/language-switcher"
 import { CampaignLogo } from "@/components/campaign-logo"
 
-import candidatePhoto from "../../public/images/candidate-photo.png" 
+import candidatePhoto from "../../public/images/candidate-photo.png"
+import GallerySection from "./gallery-section"
 
 export default async function CampaignPage({
   params,
@@ -310,30 +311,9 @@ export default async function CampaignPage({
           </div>
         </section>
         
-        {/* Gallery Section 
-        <section id="gallery" className="section-padding bg-slate-50">
-          <div className="container px-4 md:px-6">
-            <div className="mx-auto flex max-w-3xl flex-col items-center justify-center gap-6 text-center mb-16">
-              <h2 className="text-3xl font-bold sm:text-4xl text-slate-900">{dict.gallery.title}</h2>
-              <p className="text-lg text-slate-600 leading-relaxed">{dict.gallery.description}</p>
-            </div>
-
-            <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3 max-w-5xl mx-auto">
-              {Object.entries(dict.gallery.images).map(([key, alt], index) => (
-                <div key={key} className="group relative overflow-hidden rounded-md shadow-subtle">
-                  <Image
-                    src="/placeholder.svg?height=300&width=400"
-                    alt={alt}
-                    width={400}
-                    height={300}
-                    className="h-64 w-full object-cover transition-transform duration-300 group-hover:scale-105"
-                  />
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
-        */}
+        {/* Galley Section */}
+        <GallerySection gallery={dict.gallery} />
+       
         {/* Events Section */}
         <section id="events" className="section-padding">
           <div className="container px-4 md:px-6">
@@ -378,8 +358,15 @@ export default async function CampaignPage({
         </section>
       </main>
 
+      {/* Disclaimer */}
+      <p className="text-center text-sm text-slate-600">
+        {dict.footer.disclaimer}
+      </p>
+      <br />
+      
       {/* Footer */}
       <footer className="border-t border-slate-200 bg-white">
+        
         <div className="container flex flex-col items-center justify-between gap-4 py-8 md:h-16 md:flex-row md:py-0">
           <div className="flex flex-col items-center gap-4 px-8 md:flex-row md:gap-2 md:px-0">
             <p className="text-center text-sm text-slate-600 md:text-left">
